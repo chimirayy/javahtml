@@ -15,6 +15,14 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "to_ignore/any.txt",
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -49,7 +57,9 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ebb/Desktop/meroapp"
+		"/home/ebb/github",
+		"/home/ebb/github/show",
+		"/home/ebb/github/to_ignore"
 	],
 	"file_history":
 	[
@@ -88,7 +98,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -111,6 +121,34 @@
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "to_ignore/any.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
